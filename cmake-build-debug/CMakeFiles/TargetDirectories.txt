@@ -1,0 +1,3 @@
+C:/Users/Rangel/Desktop/projetosCLion/driver/cmake-build-debug/CMakeFiles/driver.dir
+C:/Users/Rangel/Desktop/projetosCLion/driver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rangel/Desktop/projetosCLion/driver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
